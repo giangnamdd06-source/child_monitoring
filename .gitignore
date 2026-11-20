@@ -1,0 +1,77 @@
+# ==========================================
+# Python & Cache
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ==========================================
+# Virtual Environments
+# ==========================================
+venv/
+.venv/
+env/
+.env/
+ENV/
+conda_env/
+
+# ==========================================
+# Jupyter Lab / Notebook
+# ==========================================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+.jupyter/
+
+# ==========================================
+# AI / ML Models, Datasets & Training Runs
+# ==========================================
+dataset/
+dataset_gray/
+label/
+runs/
+outputs/
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.h5
+*.weights
+*.pb
+
+# ==========================================
+# Node / Web (nếu có kèm dashboard/frontend)
+# ==========================================
+node_modules/
+
+# ==========================================
+# Environment Variables, Secrets & Logs
+# ==========================================
+.env
+.env.*
+*.log
+*.bak
+
+# ==========================================
+# IDE & OS
+# ==========================================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

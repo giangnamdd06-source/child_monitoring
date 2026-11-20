@@ -1,0 +1,7 @@
+path: C:/Users/LENOVO/do_an/dataset/train_and_validation
+train: train/images
+val: val/images
+test: test/images
+
+nc: 5
+names: ['baterry', 'Electrical_outlet', 'knife', 'scissor', 'baby' ]
